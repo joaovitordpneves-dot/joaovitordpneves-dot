@@ -1,6 +1,6 @@
 # Olá, eu sou João Vitor 👋
 
-Estagiário na Syngenta | Explorando o mundo da tecnologia e dadoss
+Estagiário na Syngenta | Explorando o mundo da tecnologia e dados
 
 ---
 
